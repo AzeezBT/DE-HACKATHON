@@ -55,6 +55,7 @@ Validate the system in a real-world or simulated traffic environment.
 Optimize the signal timing algorithms and hardware configuration based on test results to improve efficiency and reduce congestion.
 
 ## PROGRAM
+```
 **Developed by :** SHAIK AZEEZ AHAMAD
 
 **Register No :** 212223110046
@@ -168,7 +169,7 @@ always @(*) begin
 end
 
 endmodule
-
+```
 ## RTL SCHEMATIC DIAGRAM : 
 
 ![image](https://github.com/PuliNagaNeeraj/DE-Hackathon/assets/138849173/9147921c-16c8-4221-a1e3-ed9bc93164e8)
